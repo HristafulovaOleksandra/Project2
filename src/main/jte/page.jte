@@ -3,7 +3,7 @@
 
 @param List<Movie> movies
 @param String highlightGenre
-@param boolean currentYear = false);
+@param boolean currentYear = false
 <head>
     <meta charset="UTF-8">
     <title>Список фільмів</title>
